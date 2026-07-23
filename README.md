@@ -11,4 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3805-maximize-active-section-with-trade-i](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3805-maximize-active-section-with-trade-i) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
