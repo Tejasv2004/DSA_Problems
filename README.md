@@ -25,8 +25,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3820-number-of-unique-xor-triplets-ii) |
+| [3859-maximum-product-of-two-digits](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3859-maximum-product-of-two-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3820-number-of-unique-xor-triplets-ii) |
+## Sorting
+|  |
+| ------- |
+| [3859-maximum-product-of-two-digits](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3859-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
