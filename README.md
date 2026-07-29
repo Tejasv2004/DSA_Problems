@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0020-valid-parentheses) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3805-maximize-active-section-with-trade-i) |
 ## Enumeration
 |  |
@@ -47,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
