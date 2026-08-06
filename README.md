@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3626-smallest-divisible-digit-product-i](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3805-maximize-active-section-with-trade-i) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3820-number-of-unique-xor-triplets-ii) |
 ## Array
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0009-palindrome-number) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [3626-smallest-divisible-digit-product-i](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3859-maximum-product-of-two-digits](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3859-maximum-product-of-two-digits) |
 ## Bit Manipulation
