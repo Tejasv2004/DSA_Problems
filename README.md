@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0088-merge-sorted-array) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
@@ -139,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2156-stone-game-ix](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/2156-stone-game-ix) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
