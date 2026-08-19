@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0645-set-mismatch](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0645-set-mismatch) |
 | [1240-stone-game-ii](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/1240-stone-game-ii) |
+| [1487-cinema-seat-allocation](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/1487-cinema-seat-allocation) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2156-stone-game-ix](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/2156-stone-game-ix) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0041-first-missing-positive) |
 | [0645-set-mismatch](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0645-set-mismatch) |
+| [1487-cinema-seat-allocation](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/1487-cinema-seat-allocation) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3705-find-the-largest-almost-missing-integer) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0645-set-mismatch) |
+| [1487-cinema-seat-allocation](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/1487-cinema-seat-allocation) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3820-number-of-unique-xor-triplets-ii) |
 ## Sorting
 |  |
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1487-cinema-seat-allocation](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/1487-cinema-seat-allocation) |
 | [2156-stone-game-ix](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/2156-stone-game-ix) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
