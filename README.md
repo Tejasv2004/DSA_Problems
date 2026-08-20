@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2156-stone-game-ix](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/2156-stone-game-ix) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3347-distribute-elements-into-two-arrays-i](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3820-number-of-unique-xor-triplets-ii) |
 ## Hash Table
@@ -150,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Simulation
+|  |
+| ------- |
+| [3347-distribute-elements-into-two-arrays-i](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
