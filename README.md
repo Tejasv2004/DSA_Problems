@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3705-find-the-largest-almost-missing-integer) |
+| [4321-digit-frequency-score](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/4321-digit-frequency-score) |
 ## Math
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3626-smallest-divisible-digit-product-i](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3859-maximum-product-of-two-digits](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3859-maximum-product-of-two-digits) |
+| [4321-digit-frequency-score](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/4321-digit-frequency-score) |
 ## Bit Manipulation
 |  |
 | ------- |
