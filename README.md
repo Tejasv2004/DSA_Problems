@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0048-rotate-image) |
 | [0088-merge-sorted-array](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0645-set-mismatch](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0645-set-mismatch) |
 | [1240-stone-game-ii](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/1240-stone-game-ii) |
 | [1487-cinema-seat-allocation](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/1487-cinema-seat-allocation) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0041-first-missing-positive) |
+| [0128-longest-consecutive-sequence](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0645-set-mismatch](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0645-set-mismatch) |
 | [1487-cinema-seat-allocation](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/1487-cinema-seat-allocation) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -158,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3347-distribute-elements-into-two-arrays-i) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
