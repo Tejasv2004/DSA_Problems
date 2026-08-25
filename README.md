@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3820-number-of-unique-xor-triplets-ii) |
+| [4080-smallest-missing-multiple-of-k](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3705-find-the-largest-almost-missing-integer) |
+| [4080-smallest-missing-multiple-of-k](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4321-digit-frequency-score](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/4321-digit-frequency-score) |
 ## Math
 |  |
