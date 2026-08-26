@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0020-valid-parentheses) |
+| [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3805-maximize-active-section-with-trade-i) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Counting
 |  |
