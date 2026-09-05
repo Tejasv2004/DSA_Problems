@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4080-smallest-missing-multiple-of-k](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4256-construct-uniform-parity-array-i](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/4256-construct-uniform-parity-array-i) |
 | [4284-smallest-stable-index-i](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/4284-smallest-stable-index-i) |
+| [4285-smallest-stable-index-ii](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/4285-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1240-stone-game-ii](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/1240-stone-game-ii) |
 | [4284-smallest-stable-index-i](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/4284-smallest-stable-index-i) |
+| [4285-smallest-stable-index-ii](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/4285-smallest-stable-index-ii) |
 ## Game Theory
 |  |
 | ------- |
