@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0908-middle-of-the-linked-list](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 ## Matrix
 |  |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Simulation
 |  |
 | ------- |
