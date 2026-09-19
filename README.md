@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0048-rotate-image) |
 | [1240-stone-game-ii](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/1240-stone-game-ii) |
+| [1501-circle-and-rectangle-overlapping](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2156-stone-game-ix](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/2156-stone-game-ix) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
@@ -214,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+## Geometry
+|  |
+| ------- |
+| [1501-circle-and-rectangle-overlapping](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/1501-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
