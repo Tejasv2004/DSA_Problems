@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3820-number-of-unique-xor-triplets-ii) |
+| [3831-find-x-value-of-array-i](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3831-find-x-value-of-array-i) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4256-construct-uniform-parity-array-i](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/4256-construct-uniform-parity-array-i) |
 | [4284-smallest-stable-index-i](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/4284-smallest-stable-index-i) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3820-number-of-unique-xor-triplets-ii) |
+| [3831-find-x-value-of-array-i](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3831-find-x-value-of-array-i) |
 | [3859-maximum-product-of-two-digits](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3859-maximum-product-of-two-digits) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 | [4256-construct-uniform-parity-array-i](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/4256-construct-uniform-parity-array-i) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
+| [3831-find-x-value-of-array-i](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3831-find-x-value-of-array-i) |
 ## Minimax
 |  |
 | ------- |
