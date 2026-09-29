@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0027-remove-element) |
+| [0040-combination-sum-ii](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0048-rotate-image) |
 | [0088-merge-sorted-array](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0088-merge-sorted-array) |
@@ -225,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1501-circle-and-rectangle-overlapping](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/1501-circle-and-rectangle-overlapping) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
