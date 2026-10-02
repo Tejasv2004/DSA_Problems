@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0071-simplify-path) |
 | [0091-decode-ways](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0091-decode-ways) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0022-generate-parentheses) |
 | [0091-decode-ways](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0091-decode-ways) |
 | [1240-stone-game-ii](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/1240-stone-game-ii) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -231,9 +233,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0040-combination-sum-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0022-generate-parentheses) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 <!---LeetCode Topics End-->
