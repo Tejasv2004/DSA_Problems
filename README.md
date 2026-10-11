@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2844-sum-of-squares-of-special-elements](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3805-maximize-active-section-with-trade-i) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3820-number-of-unique-xor-triplets-ii) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2156-stone-game-ix](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/2156-stone-game-ix) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/2418-minimum-sum-of-squared-difference) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3347-distribute-elements-into-two-arrays-i) |
