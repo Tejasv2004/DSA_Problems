@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0048-rotate-image) |
+| [0055-jump-game](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0645-set-mismatch](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0645-set-mismatch) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0055-jump-game) |
 | [1487-cinema-seat-allocation](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/1487-cinema-seat-allocation) |
 | [2156-stone-game-ix](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/2156-stone-game-ix) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/2418-minimum-sum-of-squared-difference) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0055-jump-game) |
 | [0091-decode-ways](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0097-interleaving-string) |
 | [1240-stone-game-ii](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/1240-stone-game-ii) |
