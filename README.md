@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0071-simplify-path) |
 | [0091-decode-ways](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0091-decode-ways) |
+| [0093-restore-ip-addresses](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0097-interleaving-string) |
 | [0886-score-of-parentheses](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0886-score-of-parentheses) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0040-combination-sum-ii) |
+| [0093-restore-ip-addresses](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0093-restore-ip-addresses) |
 ## Bracket Sequences
 |  |
 | ------- |
