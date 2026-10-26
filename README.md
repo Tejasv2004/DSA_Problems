@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3820-number-of-unique-xor-triplets-ii) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3831-find-x-value-of-array-i](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3831-find-x-value-of-array-i) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4184-minimum-operations-to-sort-a-permutation](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/4184-minimum-operations-to-sort-a-permutation) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0048-rotate-image) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -188,11 +190,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0101-symmetric-tree) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0101-symmetric-tree) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -232,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
