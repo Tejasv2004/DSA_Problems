@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0027-remove-element) |
 | [0040-combination-sum-ii](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0041-first-missing-positive) |
+| [0045-jump-game-ii](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0088-merge-sorted-array) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0055-jump-game) |
 | [1487-cinema-seat-allocation](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/1487-cinema-seat-allocation) |
 | [2156-stone-game-ix](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/2156-stone-game-ix) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0055-jump-game) |
 | [0091-decode-ways](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0097-interleaving-string) |
