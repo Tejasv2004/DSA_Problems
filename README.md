@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3831-find-x-value-of-array-i](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3831-find-x-value-of-array-i) |
+| [3938-twisted-mirror-path-count](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3938-twisted-mirror-path-count) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4184-minimum-operations-to-sort-a-permutation](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/4184-minimum-operations-to-sort-a-permutation) |
 | [4205-minimum-xor-path-in-a-grid](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/4205-minimum-xor-path-in-a-grid) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0048-rotate-image) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
+| [3938-twisted-mirror-path-count](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3938-twisted-mirror-path-count) |
 | [4205-minimum-xor-path-in-a-grid](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/4205-minimum-xor-path-in-a-grid) |
 ## Dynamic Programming
 |  |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 | [3831-find-x-value-of-array-i](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3831-find-x-value-of-array-i) |
+| [3938-twisted-mirror-path-count](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3938-twisted-mirror-path-count) |
 | [4205-minimum-xor-path-in-a-grid](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/4205-minimum-xor-path-in-a-grid) |
 ## Minimax
 |  |
