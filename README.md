@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3831-find-x-value-of-array-i](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3831-find-x-value-of-array-i) |
 | [3938-twisted-mirror-path-count](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3938-twisted-mirror-path-count) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/4080-smallest-missing-multiple-of-k) |
+| [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
 | [4184-minimum-operations-to-sort-a-permutation](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/4184-minimum-operations-to-sort-a-permutation) |
 | [4205-minimum-xor-path-in-a-grid](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/4205-minimum-xor-path-in-a-grid) |
 | [4256-construct-uniform-parity-array-i](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/4256-construct-uniform-parity-array-i) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3831-find-x-value-of-array-i](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3831-find-x-value-of-array-i) |
 | [3859-maximum-product-of-two-digits](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3859-maximum-product-of-two-digits) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
+| [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
 | [4256-construct-uniform-parity-array-i](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/4256-construct-uniform-parity-array-i) |
 | [4321-digit-frequency-score](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/4321-digit-frequency-score) |
 ## Bit Manipulation
