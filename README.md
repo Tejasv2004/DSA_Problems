@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0645-set-mismatch](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0645-set-mismatch) |
 | [1240-stone-game-ii](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/1240-stone-game-ii) |
+| [1396-count-servers-that-communicate](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1487-cinema-seat-allocation](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/1487-cinema-seat-allocation) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0048-rotate-image) |
+| [1396-count-servers-that-communicate](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3938-twisted-mirror-path-count](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3938-twisted-mirror-path-count) |
 | [4205-minimum-xor-path-in-a-grid](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/4205-minimum-xor-path-in-a-grid) |
@@ -202,12 +204,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0101-symmetric-tree) |
+| [1396-count-servers-that-communicate](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0101-symmetric-tree) |
+| [1396-count-servers-that-communicate](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
@@ -223,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1396-count-servers-that-communicate](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [2156-stone-game-ix](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/2156-stone-game-ix) |
 ## Nim Game
 |  |
@@ -248,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [1396-count-servers-that-communicate](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Floyd's Cycle Finding Algorithm
 |  |
