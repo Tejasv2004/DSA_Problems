@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2156-stone-game-ix](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/2156-stone-game-ix) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [3625-stone-removal-game](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3625-stone-removal-game) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3831-find-x-value-of-array-i](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3831-find-x-value-of-array-i) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3347-distribute-elements-into-two-arrays-i) |
+| [3625-stone-removal-game](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3625-stone-removal-game) |
 | [3811-reverse-degree-of-a-string](https://github.com/Tejasv2004/Daily-Problems-Leetcode/tree/master/3811-reverse-degree-of-a-string) |
 ## Union-Find
 |  |
